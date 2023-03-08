@@ -44,7 +44,7 @@ console.log("Das Ergebnis ist " + result);
 result = ((a + b + c) / 4)
 console.log("Das Ergebnis ist " + result);
 
-//Variabeln ändern
+//Variablen ändern
 a = 3
 b = a + 3
 c = c - 3
@@ -52,7 +52,7 @@ c = c - 3
 console.log("a + 3= " + b)
 console.log("c - 3= " + c)
 
-//Aufgabe mit neuen Variabeln
+//Aufgabe mit neuen Variablen
 //Aufgabe a+b+c
 result = a + b + c;
 console.log("Das Ergebnis ist " + result);
