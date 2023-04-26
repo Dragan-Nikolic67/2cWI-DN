@@ -1,4 +1,4 @@
-let randomNumber = Math.random() * 5+6;
+let randomNumber = Math.random() * 6+5;
 let random = Math.floor(randomNumber);
 
 console.log(random);
